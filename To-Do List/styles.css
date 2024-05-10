@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(michael-weir-dpd3Hn47ojg-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100% ;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+input[type="text"] {
+    width: 70%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    background-color: #f4f4f4;
+    padding: 10px;
+    margin-bottom: 5px;
+}
